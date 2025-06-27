@@ -1,2 +1,2 @@
-# HospitalManagementSpecFlow
+# HospitalManagementSpecFlow-CC
 HospitalManagementSpecFlow C#
