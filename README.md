@@ -1,2 +1,2 @@
 # HospitalManagementSpecFlow-CC
-HospitalManagementSpecFlow C#
+HospitalManagementSpecFlow Cucumber, C#
